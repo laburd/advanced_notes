@@ -25,7 +25,7 @@ data = {
 
 #application window parameters
 notes_win = QWidget()
-notes_win.setWindowTitle('Smart Notes')
+notes_win.setWindowTitle('Advanced notes')
 notes_win.resize(900, 600)
  
 #application window widgets
